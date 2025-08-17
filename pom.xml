@@ -140,14 +140,14 @@
         <dependency>
             <groupId>org.bouncycastle</groupId>
             <artifactId>bc-fips</artifactId>
-            <version>1.0.1</version>
+            <version>2.1.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.bouncycastle/bcpkix-fips -->
         <dependency>
             <groupId>org.bouncycastle</groupId>
             <artifactId>bcpkix-fips</artifactId>
-            <version>1.0.2</version>
+            <version>2.1.8</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.apache.geronimo.specs/geronimo-stax-api_1.0_spec -->
